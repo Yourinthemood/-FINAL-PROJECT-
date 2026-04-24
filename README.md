@@ -1,4 +1,6 @@
-# Gambling game
+#  Jackpot Junction
+
+##game
 Written and typed by Chronin7
 ## How to use
 1. to install the requirements just run the main file normaly and it should install it automatically
@@ -9,15 +11,17 @@ Written and typed by Chronin7
 3. to exit just
 ***
 ## License
-No copyright.
+me
 
 Free to use.
 
-Just do not monetize it.
+we monteize it all assets are created by the devs
 ***
 ## Contributors
 BG2bg2bg2
+
 Chronin7
+
 Yourinthemood
 
 ***
