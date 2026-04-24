@@ -1,4 +1,4 @@
-# Gambling game
+# 🌟 Jackpot Junction 🌟
 Written and typed by Chronin7
 ## How to use
 1. to install the requirements just run the main file normaly and it should install it automatically
