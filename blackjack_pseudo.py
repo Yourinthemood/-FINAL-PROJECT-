@@ -1,4 +1,4 @@
-
+'''-Darin's part of pseudo code-'''
 # Blackjack game pseudo code
 # The main function will display the options
 # Options are: change bet amount, start game, return to menu
