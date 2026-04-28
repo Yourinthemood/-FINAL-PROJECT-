@@ -1,1 +1,1 @@
-'''Yourinthemood- github username - darin'''
+'''Issac's pseudocode'''
